@@ -15,8 +15,9 @@ When X Wins
 When Draw
 ![draw](https://github.com/balananujith/PRODIGY_WD_03/assets/118455793/f6bc31cd-5709-4177-a15a-163b113e8f0c)
 
-When Reset
+ Reset
 ![reset1](https://github.com/balananujith/PRODIGY_WD_03/assets/118455793/cb84d116-0858-4482-9583-167f0c7e5b5e)
+After Pressing Reset
 ![reset2](https://github.com/balananujith/PRODIGY_WD_03/assets/118455793/42cc7663-c572-44da-b084-4567776ee991)
 
 
